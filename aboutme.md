@@ -1,16 +1,32 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ahsan Nadeem
+subtitle: 'PhD. Fellow, GIKI'
+head-title: "Ahsan Nadeem - PhD Fellow, GIKI"
+css: "../css/custom.css"
 ---
 
-My name is Ahsan Nadeem. I have the following qualities:
+### Hi, I'm Ahsan!! 👋
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<img align="right" src="../img/aarif.png" height="200px">
 
-What else do you need?
+I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](https://www.giki.edu.pk/) Pakistan. My research is supervised by  [Dr. Zia ulhaq Abbas](https://www.giki.edu.pk/Faculty/Dr-Hadeed-Ahmed-Sher-Senior-Member-IEEE).
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Keeping aside all the jargons, maths and information, I love to spend my leisure on reading about photography and experimenting with my camera.
+ 
+ ----
+
+### Curriculum Vitae
+The PDF version of my CV can be found here.
+[<img src="../img/cvicon.jpg" height="65px">](https://ahsannadeem8.github.io/ahsan/books/Arif-CV.pdf)
+
+ ----
+### News and Updates
+
+#### 2020
+
+#### 2019
+
+----
+<a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
