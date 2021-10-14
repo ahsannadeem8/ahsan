@@ -8,7 +8,7 @@ css: "../css/custom.css"
 
 ### Hi, I'm Ahsan!! 👋
 
-<img align="right" src="../img/ahsan.jpg" height="200px">
+<img align="right" src="../img/ahsan2.jpg" height="200px">
 
 I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](https://www.giki.edu.pk/) Pakistan. My research is supervised by  [Dr. Hadeed Ahmed Sher](https://www.giki.edu.pk/Faculty/Dr-Hadeed-Ahmed-Sher-Senior-Member-IEEE).
 
