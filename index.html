@@ -2,6 +2,8 @@
 layout: page
 title: Hi,
 subtitle: Welcome to my Blog!!
+
+
 meta-title: ""
 use-site-title: true
 bigimg:
@@ -13,7 +15,7 @@ bigimg:
 <script>
   $(function(){
     $(".typed").typed({
-      strings: ["Power Electronics Engineer","PhD Fellow at GIK Institute"],
+      strings: ["Power Electronics Engineer","PhD Scholar at GIK Institute"],
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
@@ -38,7 +40,6 @@ bigimg:
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
-
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
