@@ -7,7 +7,6 @@ css: "../css/custom.css"
 ---
 
 
-
 ### Submitted/Accepted Articles
 
 <img src="../img/journal-article.png" height="20px">
@@ -20,35 +19,32 @@ mode controller (ISMC) based GMPPT algorithm for photovoltaic system, _Submitted
 
 ----
 
-### Published Articles
-
-#### 2020
+### Published Journal Articles
 
 <img src="../img/journal-article.png" height="20px">
 **Ahsan Nadeem**, Hadeed Ahmed Sher, Ali Faisal Murtaza, and Nisar Ahmed, “Online current-sensorless estimator for PV open circuit voltage and short circuit current, _Solar Energy, Elsevier_, vol. 213, pp. 198-210, 2021. [[PDF Preprint&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S0038092X20311452) [[Elsevier&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S0038092X20311452)
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of User- Centric
-Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling, <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
+**Ahsan Nadeem**, Hadeed Ahmed Sher, and Nisar Ahmed, “"Online fractional open-circuit voltage maximum output power algorithm for photovoltaic modules, _IET Renewable Power Generation_, vol. 14(2), pp. 188-198, 2020. [[PDF Preprint&#8594;]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-rpg.2019.0171) [[IET&#8594;]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-rpg.2019.0171)
 
 <img src="../img/journal-article.png" height="20px">
-Ziaul Haq Abbas, **Arif Ullah**, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/8932550)
+**Ahsan Nadeem**, “"Performance evaluation of online open-circuit voltage estimation method for photovoltaic system, _SN Applied Sciences, Springer_, vol. 12, pp. 1-8, 2020. [[PDF Preprint&#8594;]](https://link.springer.com/article/10.1007/s42452-020-03864-y) [[Springer&#8594;]](https://link.springer.com/article/10.1007/s42452-020-03864-y)
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Performance Analysis of User-Centric SBS Deployment with Load Balancing in Heterogeneous Cellular Networks: A Thomas Cluster Process Approach, <em>Computer Networks,</em> vol. 170, 2020. [[PDF Preprint&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874) [[Elsveir&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874)
-
-<img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis, <em>Trans. on Emer. Telecommun. Techno.,</em> e3876, 2020. [[PDF Preprint&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [[Springer&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
+**Ahsan Nadeem**, and Afaq Hussain “"A comprehensive review of global maximum power point tracking algorithms for photovoltaic systems, _Energy Systems, Springer_, pp. 1-42, 2021. [[PDF Preprint&#8594;]](https://link.springer.com/article/10.1007/s12667-021-00476-2) [[Springer&#8594;]](https://link.springer.com/article/10.1007/s12667-021-00476-2)
 
 ----
 
-#### 2019
-
-<img src="../img/journal-article.png" height="20px">
-Hammad Ahmed, Muhammad Mahmood Ali, **Arif Ullah**, Arbab Abdur Rahim, Husnul Maab, Mahmood Khan, Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces, <em>Jour. of Nanoelec. and Optoelec.,</em> vol. 14, no. 9, pp. 1339-1343(5), 2019. [[PDF Preprint&#8594;]](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016) [[JNO&#8594;]](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016)
+#### Published Conference Papers
 
 <img src="../img/conference-paper.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Ghulam Abbas, Fazal Muhammad, Analysis of Outage Probability and Rate Coverage in Heterogeneous Cellular Network with Joint Uniform and Clustered Users, <em>22nd International Multitopic Conference (INMIC),</em> Islamabad, 2019. [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/9022767) 
+**Ahsan Nadeem**, Hadeed Ahmed Sher, Ali Faisal Murtaza, and Nisar Ahmed, An online fractional open circuit voltage maximum output power algorithm for photovoltaic modules based on sliding mode control, <em>International Symposium on Recent Advances in Electrical Engineering and Computer Sciences,</em> Islamabad, 2020. [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/9265809)
+
+<img src="../img/conference-paper.png" height="20px">
+Muhammad Jawad, M. Bilal Qureshi, **Ahsan Nadeem**, and S.M. Shabbir, Bi-Directional Nano Grid Design for Organizations with Plug-In Electric Vehicle Charging at Workplace, <em> International Conference on Electro/Information Technology (EIT),</em> USA, 2018. [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/8500191)
+
+<img src="../img/conference-paper.png" height="20px">
+**Ahsan Nadeem**, M. Nadeem Rafiq, M. Bilal Qureshi, and Muhammad Jawad, Joint Power Management of Telecom Exchanges and Electric Vehicles Using Hybrid AC-DC Microgrid, <em> International Conference on Frontiers of Information Technology (FIT),</em> Islamabad, 2017. [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/8261024)
 
 
 <img src="../img/workshop-paper.png" height="20px">
