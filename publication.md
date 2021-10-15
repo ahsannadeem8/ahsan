@@ -57,9 +57,9 @@ Muhammad Jawad, M. Bilal Qureshi, **Ahsan Nadeem**, and S.M. Shabbir, Bi-Directi
 Complete list of my publications can also be accessed on google scholor.
 
 
-[<img src="../img/googlescholor.png" height="65px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
-[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
-[<img src="../img/orcid.png" height="62px">](https://orcid.org/0000-0002-0555-6644)
+[<img src="../img/googlescholor.png" height="65px">](https://scholar.google.com/citations?user=ES3evIoAAAAJ&hl=en&oi=sra)
+[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Ahsan-Nadeem-3)
+[<img src="../img/orcid.png" height="62px">](https://orcid.org/0000-0003-3167-0907)
 
 
 
