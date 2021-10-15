@@ -20,7 +20,7 @@ Research startup
 - SCI Journals list [[Link]](http://sci-thomsonreuters.org/)
 
 ### Power Electronics Research Laboratories 
-- will ne updated soon !!! 
+- will update soon!!!!! 
 
 ### Language
 - [English grammar basics](http://www.english-for-students.com/Grammar-2.html)
