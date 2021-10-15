@@ -64,7 +64,7 @@ footer-link-col: "#8F1515"
 
 #navbar-img: "/img/nebula.jpg"
 footer-img: "/img/nebula.jpg"
-page-img: "/img/nebula.jpg"
+#page-img: "/img/nebula.jpg"
 
 # --- Footer options --- #
 
