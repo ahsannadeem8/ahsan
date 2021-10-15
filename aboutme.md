@@ -10,11 +10,9 @@ css: "../css/custom.css"
 
 <img align="right" src="../img/ahsan2.jpg" height="200px">
 
-I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](https://www.giki.edu.pk/) Pakistan. My research is supervised by  [Dr. Hadeed Ahmed Sher](https://www.giki.edu.pk/Faculty/Dr-Hadeed-Ahmed-Sher-Senior-Member-IEEE).
+I am a PhD Fellow in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](https://www.giki.edu.pk/) Pakistan. My research is supervised by [Dr. Hadeed Ahmed Sher](https://www.giki.edu.pk/Faculty/Dr-Hadeed-Ahmed-Sher-Senior-Member-IEEE). My research focuses on the maximum power tracking algorithms (MPPT), fault detecting algorithms, shading detection techniques, and sliding mode control applications for a photovoltaic systems.
 
 
-Keeping aside all the jargons, maths and information, I love to spend my leisure on reading about photography and experimenting with my camera.
- 
  ----
 
 ### Curriculum Vitae
