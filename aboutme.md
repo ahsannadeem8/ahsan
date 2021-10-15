@@ -25,8 +25,7 @@ The PDF version of my CV can be found here.
 ### News and Updates
 
 #### 2020
-
-#### 2019
+(https://www.pv-magazine.com/2020/11/25/online-algorithm-to-estimate-open-circuit-voltage-in-pv-systems/)
 
 ----
 <a href="https://info.flagcounter.com/Ms88"><img src="https://s04.flagcounter.com/count2/Ms88/bg_F5F5F5/txt_000000/border_CCCCCC/columns_6/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
