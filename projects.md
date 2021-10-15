@@ -49,7 +49,7 @@ css: "../css/custom.css"
     Will ve updated soon
     </p>
   </div>
-  <h3> AI based fault detection algorithms for PV system </h3>
+  <h3> AI based fault detecting algorithms for PV system </h3>
   <div>
     <p>
       <img align="right" src="../img/unerconst.jpg" height="300px">
