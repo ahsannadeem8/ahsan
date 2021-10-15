@@ -29,4 +29,5 @@ The PDF version of my CV can be found here.
 #### 2019
 
 ----
-<a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/Ms88"><img src="https://s04.flagcounter.com/count2/Ms88/bg_F5F5F5/txt_000000/border_CCCCCC/columns_6/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
