@@ -35,15 +35,13 @@ css: "../css/custom.css"
       Will be updated soon
     </p>
   </div>
-<div id="accordion">
-  <h3> Performance Ratio (PR) assessment of PV system using online technique </h3>
+  <h3> Performance Ratio (PR) assessment of PV system </h3>
   <div>
     <p>
     <img align="right" src="../img/unerconst.jpg" height="300px">
       Will be updated soon
     </p>
   </div>
-<div id="accordion">
   <h3> Analytical Modeling of PV system under PSC</h3>
   <div>
     <p>
@@ -51,18 +49,12 @@ css: "../css/custom.css"
     Will ve updated soon
     </p>
   </div>
-<div id="accordion">
-  <h3> AI based Fault detection algorithms for PV system </h3>
+  <h3> AI based fault detection algorithms for PV system </h3>
   <div>
     <p>
       <img align="right" src="../img/unerconst.jpg" height="300px">
     Will be updated soon
     </p>
-    <ul>
-      <li>List item one</li>
-      <li>List item two</li>
-      <li>List item three</li>
-    </ul>
   </div>
 </div>
  
