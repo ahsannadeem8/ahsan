@@ -7,15 +7,15 @@ css: "../css/custom.css"
 ---
 
 <p>Have a question, an exciting new idea or need to discuss matters? I'm always looking forward to friendly communication. You can find all the necessary details in order to make contact below.</p>
-<p>You can email me on <img src="../img/email.png" height="40px"> <a href="mailto:arifullah@giki.edu.pk">arifullah@giki.edu.pk</a> or <img src="../img/gmail.png" height="40px"><a href="mailto:arifkhaan.ciit@gmail.com">arifkhaan.ciit@gmail.com</a></p>
+<p>You can email me on <img src="../img/email.png" height="40px"> <a href="mailto:ahsan.nadeem@giki.edu.pk">ahsan.nadeem@giki.edu.pk</a> or <img src="../img/gmail.png" height="40px"><a href="ahsannadeem8@gmail.com">ahsannadeem8@gmail.com</a></p>
 <hr>
 <p>You can visit me in office hours at</p>
-<p>F-09 Telecommunication and Networking (TeleCoN Lab), Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi-23640, Swabi, KPK, Pakistan.</p>
+<p>F-09 Lab, Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi-23640, Swabi, KPK, Pakistan.</p>
 <hr>
-[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
-[<img src="../img/linkedin.png" height="60px">](https://www.linkedin.com/in/arifullah012/)
-[<img src="../img/twitter.png" height="65px">](https://twitter.com/Arif_Mandnrkhel)
-[<img src="../img/fb.png" height="65px">](https://www.facebook.com/arifkhan014/)
+[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Ahsan-Nadeem-3)
+[<img src="../img/linkedin.png" height="60px">](https://www.linkedin.com/in/ahsan-nadeem-3a4888105/)
+[<img src="../img/twitter.png" height="65px">]()
+[<img src="../img/fb.png" height="65px">](https://www.facebook.com/ahsan.nadeem.7/)
 
 <p>If you want to get in touch. You can also send me a quick message using the form below:</p>
   
