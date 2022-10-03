@@ -10,12 +10,8 @@ css: "../css/custom.css"
 ### Submitted/Accepted Articles
 
 <img src="../img/journal-article.png" height="20px">
-**Ahsan Nadeem**, Hadeed Ahmed Sher, Ali Faisal Murtaza, and Nisar Ahmed, A GMPPT algorithm based on load line
-analysis using an online open circuit voltage measurement of photovoltaic system, _Submitted to IEEE Journal of Photovoltaics_, 2021.  
-
-<img src="../img/journal-article.png" height="20px">
 **Ahsan Nadeem**, Hadeed Ahmed Sher, Ali Faisal Murtaza, and Nisar Ahmed, “Inductor current-sensorless integral sliding
-mode controller (ISMC) based GMPPT algorithm for photovoltaic system, _Submitted to IET Renewable Power Generation_, 2021.
+mode controller (ISMC) based GMPPT algorithm for photovoltaic system, _Revision in Transactions of the Institute of Measurment and Control_, 2022.
 
 ----
 
